@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="URL_DEL_BANNER_GIF_AQUI" alt="Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/d62c6397-29e8-44e8-938c-ba7f105842f4" alt="Banner" width="100%">
+
 </p>
 
 # 👨‍💻 pr0ff3
