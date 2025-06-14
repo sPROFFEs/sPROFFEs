@@ -1,4 +1,7 @@
 ![imagen](https://github.com/sPROFFEs/sPROFFEs/assets/150958256/ae33b499-1274-4d9a-88a5-2e3d52a04e1d)
+
+![gif](https://github.com/user-attachments/assets/515b36af-9eac-4ea4-a01e-a14cf44dfbad)
+
 # 💫 About Me:
 🔒 Cybersecurity analyst & Red Team Operator focused on adversary emulation and infrastructure exploitation. Skilled in pentesting solutions, social engineering, and post-exploitation tactics. Experience on network security monitoring. Working on open-source security tools and vulnerability research.<br><br>⚡ Skills: Network Security | Active Directory | Malware Analysis | Social Engineering | Python | Bash<br>💻 Currently learning: Threat Hunting | Cloud Security 
 
