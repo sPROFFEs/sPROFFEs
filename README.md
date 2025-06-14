@@ -1,8 +1,3 @@
-![imagen](https://github.com/sPROFFEs/sPROFFEs/assets/150958256/ae33b499-1274-4d9a-88a5-2e3d52a04e1d)
-
-![36c13f3f-a69a-41af-ac8d-d50c481f661d](https://github.com/user-attachments/assets/9ec09b93-fce4-4d0f-9f6d-7b7398ebbe24)
-![12994732-baa5-40ee-a872-1697434c786c-ezgif com-crop (1)](https://github.com/user-attachments/assets/0cbd558c-d15f-496b-b9a8-4bb560951712)
-
 # 💫 About Me:
 🔒 Cybersecurity analyst & Red Team Operator focused on adversary emulation and infrastructure exploitation. Skilled in pentesting solutions, social engineering, and post-exploitation tactics. Experience on network security monitoring. Working on open-source security tools and vulnerability research.<br><br>⚡ Skills: Network Security | Active Directory | Malware Analysis | Social Engineering | Python | Bash<br>💻 Currently learning: Threat Hunting | Cloud Security 
 
@@ -30,6 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=sPROFFEs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                                                                                                                                                      
+![gif](https://github.com/user-attachments/assets/3d2789c3-ac59-49e9-b74a-48521bb4241c)
+
 
 
                                                                                                                          
