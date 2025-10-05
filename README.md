@@ -1,41 +1,15 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d62c6397-29e8-44e8-938c-ba7f105842f4" alt="Banner" width="60%">
-
-</p>
-
-# 👨‍💻 pr0ff3
+# pr0ff3
 
 🔒 **Cybersecurity analyst & Red Team Operator** focused on adversary emulation and infrastructure exploitation. Skilled in pentesting solutions, social engineering, and post-exploitation tactics. Experience in network security monitoring. Working on open-source security tools and vulnerability research.
 
-⚡ **Skills:** Network Security | Active Directory | Malware Analysis | Social Engineering | Python | Bash  
-📚 **Currently learning:** Threat Hunting | Cloud Security
+⚡ **Skills:** Cybersecurity Analyst | Red Team | Penetration Testing | Networking & Hardware | eJPT  
+📚 **Currently learning:** webapp pentesting | Cloud Security
 
 ---
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pr0ff3)
-
----
-
-## 🛠️ Tech Stack
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
 ---
 
