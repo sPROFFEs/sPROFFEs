@@ -125,7 +125,7 @@
         <td><b><a href="https://coresecframe.github.io/">CoreSecFrame</a></b></td>
         <td>Modular Python Framework with Web Interface and Remote Desktop Access for Complete Cybersecurity Operations</td>
         <td><code>JavaScript</code> <code>Python</code> <code>HTML5</code> <code>CSS</code></td>
-        <td>Active</td>
+        <td>Active/Public</td>
       </tr>
     </tbody>
   </table>
