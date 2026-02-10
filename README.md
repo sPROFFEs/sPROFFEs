@@ -120,6 +120,14 @@
         <th>Status</th>
       </tr>
     </thead>
+      <tbody>
+      <tr>
+        <td><b><a href="https://sproffes.github.io/">CiberDocs</a></b></td>
+        <td>Cibersecurity blog, guides and writeups</td>
+        <td><code>MD</code> <code>Ruby</code> <code>HTML5</code> <code>CSS</code> <code>jekyll</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
     <tbody>
       <tr>
         <td><b><a href="https://coresecframe.github.io/">CoreSecFrame</a></b></td>
@@ -128,5 +136,30 @@
         <td>Active/Public</td>
       </tr>
     </tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://sproffes.github.io/DorkQuery/">DorkQuery</a></b></td>
+        <td>A simple tool to build and search Google dorks visually — perfect for OSINT researchers and hackers.</td>
+        <td><code>JavaScript</code> <code>HTML5</code> <code>CSS</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://github.com/sPROFFEs/ClamAV-GUI">ClamAV-GUI</a></b></td>
+        <td>ClamAV-GUI is a Windows desktop application written in C# that provides a graphical interface for the open-source ClamAV antivirus engine. It enables users to pick files or folders, run scans, and view comprehensive results without touching the command line.</td>
+        <td><code>C#</code> <code>.NET</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://sproffes.github.io/IDSecure/">IDSecure</a></b></td>
+        <td>Professional document protection platform. Advanced redaction and watermarking technology for secure information handling.</td>
+        <td><code>JavaScript</code> <code>HTML5</code> <code>CSS</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+
   </table>
 </div>
