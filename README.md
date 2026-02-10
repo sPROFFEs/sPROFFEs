@@ -108,7 +108,7 @@
 
 ###
 
-<h2 align="center">💀 THE ARSENAL</h2>
+<h2 align="center">PROJECT LIST</h2>
 
 <div align="center">
   <table>
