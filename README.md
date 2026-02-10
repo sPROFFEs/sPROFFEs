@@ -1,5 +1,11 @@
 <h1 align="center">STAY ANONYMOUS</h1>
 
+<p align='center'>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPumukyDev">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsproffes&labelColor=%23263759&countColor=%2382aaff&style=flat" />
+    </a>
+</p>
+
 ###
 
 <div align="center">
@@ -86,17 +92,22 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sPROFFEs&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="contributor stats" />
+</div>
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sproffes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=sproffes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sproffes&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sproffes&radius=16&theme=dracula&area=true&order=5" width="800" alt="activity-graph graph"  />
 </div>
 
-###
 
 <div align="center">
   <picture>
