@@ -164,6 +164,39 @@
       </tr>
     </tbody>
     <tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://coresecframe.github.io/PyClicker/">PyClicker</a></b></td>
+        <td>The ultimate macro and auto-clicker software for enhancing productivity and gaming performance. Save time, reduce effort.</td>
+        <td><code>C#</code> <code>.NET</code> <code>Python</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://addons.mozilla.org/en-US/firefox/addon/workday-payslips-downloader/">Workday-Payslips-Downloader</a></b></td>
+        <td>Download all your payslips from workday at once.</td>
+        <td><code>JavaScript</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://addons.mozilla.org/en-US/firefox/addon/protonvpn-harvester/">ProtonVPN Harvester</a></b></td>
+        <td>Automated WireGuard configuration harvesting for ProtonVPN.</td>
+        <td><code>JavaScript</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td><b><a href="https://github.com/sPROFFEs/MetaSpidey">MetaSpidey</a></b></td>
+        <td>MetaSpidey is a powerful graphical tool designed for web crawling, file discovery, and metadata extraction. It features a user-friendly interface that simplifies the process of spidering websites, conducting brute-force directory discovery, downloading files, and analyzing metadata using Exiftool.</td>
+        <td><code>Python</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
       <tr>
         <td><b><a href="https://sproffes.github.io/IDSecure/">IDSecure</a></b></td>
         <td>Professional document protection platform. Advanced redaction and watermarking technology for secure information handling.</td>
