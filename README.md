@@ -204,14 +204,6 @@
         <td>Active/Public</td>
       </tr>
     </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://sproffes.github.io/IDSecure/">IDSecure</a></b></td>
-        <td>Professional document protection platform. Advanced redaction and watermarking technology for secure information handling.</td>
-        <td><code>JavaScript</code> <code>HTML5</code> <code>CSS</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
 
   </table>
 </div>
