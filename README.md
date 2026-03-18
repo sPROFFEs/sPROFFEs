@@ -149,6 +149,14 @@
     </tbody>
     <tbody>
       <tr>
+        <td><b><a href="https://github.com/sPROFFEs/Navipod">Navipod</a></b></td>
+        <td>Personal music platform with isolated Navidrome user containers, a FastAPI control plane, multi-source remote search, and a shared download pool.</td>
+        <td><code>JavaScript</code> <code>Python</code> <code>HTML5</code> <code>CSS</code> <code>Docker</code></td>
+        <td>Active/Public</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
         <td><b><a href="https://github.com/sPROFFEs/GreyTab">GreyTab</a></b></td>
         <td>A pentester's browser that combines an intercepting proxy, system tool execution, and real-time traffic analysis — all controlled from a Chrome side panel extension.</td>
         <td><code>JavaScript</code> <code>Python</code> <code>HTML5</code> <code>CSS</code></td>
