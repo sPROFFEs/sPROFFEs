@@ -81,7 +81,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/sdksdk">
+  <a href="https://linkedin.com/in/pr0ff3">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <img width="12" />
@@ -97,8 +97,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sproffes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sproffes&radius=16&theme=dracula&area=true&order=5" width="800" alt="activity-graph graph"  />
 </div>
 
