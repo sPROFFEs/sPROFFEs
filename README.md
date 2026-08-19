@@ -94,10 +94,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
 </div>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sPROFFEs&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="contributor stats" />
-</div>
-
 ###
 
 <div align="center">
