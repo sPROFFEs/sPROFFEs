@@ -243,8 +243,6 @@ This project represents an earlier stage of my work in cybersecurity tooling and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sPROFFEs&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
-
 </div>
 
 <br>
@@ -252,8 +250,6 @@ This project represents an earlier stage of my work in cybersecurity tooling and
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sPROFFEs&layout=compact&hide_border=true&theme=github_dark" height="160" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sPROFFEs&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub streak" />
 
 </div>
 
