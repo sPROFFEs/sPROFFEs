@@ -1,209 +1,141 @@
-<p align='center'>
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsproffes">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsproffes&labelColor=%23263759&countColor=%2382aaff&style=flat" />
-    </a>
-</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="60" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="60" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
+
+# sPROFFEs
+
+### Cybersecurity · Red Team · Penetration Testing · Security Engineering · Software Development
+
+I build security tooling, automation platforms and practical software focused on turning complex workflows into usable products.
+
+[![Website](https://img.shields.io/badge/Website-sPROFFEs.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://sproffes.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pr0ff3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pr0ff3)
+[![CoreSecFrame](https://img.shields.io/badge/CoreSecFrame-Project-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white)](https://coresecframe.github.io/)
+
 </div>
 
-###
+---
+
+## About
+
+Cybersecurity evaluator and security-focused developer working across **offensive security, web application security, networking, systems and software engineering**.
+
+My projects generally focus on building tools that simplify repetitive or fragmented technical workflows: penetration-testing utilities, security automation, operator interfaces, self-hosted infrastructure and developer tooling.
+
+**Security certifications:** `eJPT` · `eWPT`
+
+### Main areas
+
+- Red Team & Penetration Testing
+- Web Application Security
+- Security Tooling & Automation
+- OSINT & Reconnaissance
+- Networking & Linux Systems
+- Backend & Full-Stack Development
+- Self-Hosted Infrastructure
+- Developer & AI Tooling
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[CoreSecFrame](https://github.com/CoreSecFrame/CoreSecFrameWebApp)** | Modular cybersecurity operations platform with a web interface, integrated security tooling and remote-access capabilities. | `Python` `JavaScript` `HTML` `CSS` `Shell` |
+| **[GreyTab](https://github.com/sPROFFEs/GreyTab)** | Pentesting-focused browser environment combining an intercepting proxy, system tool execution and real-time traffic analysis from a Chrome side panel. | `Python` `JavaScript` `Chrome Extension` |
+| **[DorkQuery](https://github.com/sPROFFEs/DorkQuery)** | Visual interface for building and customizing advanced Google Dork queries for OSINT and penetration testing. | `JavaScript` `HTML` `CSS` |
+| **[PrAImate](https://github.com/sPROFFEs/PrAImate)** | Desktop environment for AI coding CLIs with reusable agents, workflows, skills, MCP integrations, local-model routing and isolated workspaces. | `Go` |
+| **[Aoede](https://github.com/sPROFFEs/Aoede)** | Self-hosted multi-user music platform with isolated Navidrome instances, FastAPI orchestration, remote discovery and shared storage. | `Python` `JavaScript` `FastAPI` `Docker` |
+| **[ClamAV-GUI](https://github.com/sPROFFEs/ClamAV-GUI)** | Windows desktop interface for ClamAV providing file and directory scanning without requiring command-line interaction. | `C#` `.NET` |
+
+---
+
+## Other Projects
+
+<details>
+<summary><b>Security & OSINT</b></summary>
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| **[MetaSpidey](https://github.com/sPROFFEs/MetaSpidey)** | Web crawling, file discovery and metadata extraction tool integrating ExifTool. |
+| **[ProtonVPN Harvester](https://addons.mozilla.org/en-US/firefox/addon/protonvpn-harvester/)** | Browser tooling for automating ProtonVPN WireGuard configuration retrieval. |
+
+</details>
+
+<details>
+<summary><b>Applications & Automation</b></summary>
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| **[PyClicker](https://coresecframe.github.io/PyClicker/)** | Macro and auto-clicker software for desktop automation. |
+| **[Workday Payslips Downloader](https://addons.mozilla.org/en-US/firefox/addon/workday-payslips-downloader/)** | Browser extension for downloading Workday payslips in bulk. |
+
+</details>
+
+<details>
+<summary><b>Knowledge & Writeups</b></summary>
+<br>
+
+### [CiberDocs](https://sproffes.github.io/)
+
+Cybersecurity notes, technical guides, documentation and writeups.
+
+</details>
+
+---
+
+## Technologies
 
 <div align="center">
-  <a href="https://linkedin.com/in/pr0ff3">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="https://tryhackme.com/p/TU_USUARIO">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo" />
-  </a>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,cs,bash" height="45" alt="Programming languages" />
+
+### Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,nginx" height="45" alt="Systems and infrastructure" />
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,postgres,mysql" height="45" alt="Backend and databases" />
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" height="45" alt="Web technologies" />
+
 </div>
 
+---
+
+## GitHub Activity
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sPROFFEs&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sproffes&radius=16&theme=dracula&area=true&order=5" width="800" alt="activity-graph graph"  />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sPROFFEs/sPROFFEs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sPROFFEs/sPROFFEs/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sPROFFEs/sPROFFEs/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sproffes/sproffes/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sproffes/sproffes/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sproffes/sproffes/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
-###
+**Security tooling · Automation · Software Engineering**
 
-<h2 align="center">PROJECT LIST</h2>
+<br>
 
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr>
-        <th>Project / Tool</th>
-        <th>Description</th>
-        <th>Tech Stack</th>
-        <th>Status</th>
-      </tr>
-    </thead>
-      <tbody>
-      <tr>
-        <td><b><a href="https://sproffes.github.io/">CiberDocs</a></b></td>
-        <td>Cibersecurity blog, guides and writeups</td>
-        <td><code>MD</code> <code>Ruby</code> <code>HTML5</code> <code>CSS</code> <code>jekyll</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://coresecframe.github.io/">CoreSecFrame</a></b></td>
-        <td>Modular Python Framework with Web Interface and Remote Desktop Access for Complete Cybersecurity Operations</td>
-        <td><code>JavaScript</code> <code>Python</code> <code>HTML5</code> <code>CSS</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://github.com/sPROFFEs/Aoede">Aoede</a></b></td>
-        <td>Personal music platform with isolated Navidrome user containers, a FastAPI control plane, multi-source remote search, and a shared download pool.</td>
-        <td><code>JavaScript</code> <code>Python</code> <code>HTML5</code> <code>CSS</code> <code>Docker</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://github.com/sPROFFEs/GreyTab">GreyTab</a></b></td>
-        <td>A pentester's browser that combines an intercepting proxy, system tool execution, and real-time traffic analysis — all controlled from a Chrome side panel extension.</td>
-        <td><code>JavaScript</code> <code>Python</code> <code>HTML5</code> <code>CSS</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://sproffes.github.io/DorkQuery/">DorkQuery</a></b></td>
-        <td>A simple tool to build and search Google dorks visually — perfect for OSINT researchers and hackers.</td>
-        <td><code>JavaScript</code> <code>HTML5</code> <code>CSS</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://github.com/sPROFFEs/ClamAV-GUI">ClamAV-GUI</a></b></td>
-        <td>ClamAV-GUI is a Windows desktop application written in C# that provides a graphical interface for the open-source ClamAV antivirus engine. It enables users to pick files or folders, run scans, and view comprehensive results without touching the command line.</td>
-        <td><code>C#</code> <code>.NET</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://coresecframe.github.io/PyClicker/">PyClicker</a></b></td>
-        <td>The ultimate macro and auto-clicker software for enhancing productivity and gaming performance. Save time, reduce effort.</td>
-        <td><code>C#</code> <code>.NET</code> <code>Python</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://addons.mozilla.org/en-US/firefox/addon/workday-payslips-downloader/">Workday-Payslips-Downloader</a></b></td>
-        <td>Download all your payslips from workday at once.</td>
-        <td><code>JavaScript</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://addons.mozilla.org/en-US/firefox/addon/protonvpn-harvester/">ProtonVPN Harvester</a></b></td>
-        <td>Automated WireGuard configuration harvesting for ProtonVPN.</td>
-        <td><code>JavaScript</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td><b><a href="https://github.com/sPROFFEs/MetaSpidey">MetaSpidey</a></b></td>
-        <td>MetaSpidey is a powerful graphical tool designed for web crawling, file discovery, and metadata extraction. It features a user-friendly interface that simplifies the process of spidering websites, conducting brute-force directory discovery, downloading files, and analyzing metadata using Exiftool.</td>
-        <td><code>Python</code></td>
-        <td>Active/Public</td>
-      </tr>
-    </tbody>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FsPROFFEs&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%232f81f7&style=flat" alt="Profile views" />
 
-  </table>
 </div>
