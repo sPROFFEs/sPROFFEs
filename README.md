@@ -36,16 +36,17 @@ My focus includes AI-assisted development and agentic workflows, security toolin
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![License](https://img.shields.io/github/license/sPROFFEs/PrAImate?style=flat-square)](https://github.com/sPROFFEs/PrAImate/blob/main/LICENSE)
 
-**PrAImate** is a desktop harness and native CLI for AI-assisted development. It brings **Claude Code, OpenClaude, Codex CLI, OpenCode and PrAImate Code** into a unified environment. **PrAImate CLI** also supports self-configured OpenAI-compatible endpoints.
+**PrAImate** is an AI development workspace with **Desktop and Server editions**. It brings **Claude Code, OpenClaude, Codex CLI, OpenCode and PrAImate Code** together; **PrAImate CLI** adds a native agent runtime for self-configured OpenAI-compatible endpoints.
 
 - Multi-CLI coding terminals and chats, with reusable agents and YAML workflows
 - PrAImate Studio (integrated Code-OSS / VSCodium environment) and Document Studio
 - Skills, MCP integrations and local/remote model routing
 - Workspace tooling, permission controls and encrypted application storage
 - Headless, scriptable agent execution and optional Git backup
-- Linux and Windows releases, with macOS Apple Silicon as a build target
+- Desktop and Server editions, plus an Android client preview for Server
+- Linux, Windows and macOS releases (Intel and Apple Silicon on macOS)
 
-[**Documentation and releases**](https://github.com/sPROFFEs/PrAImate)
+**Desktop** lives on `main`; **Server and Android** are developed on [`server`](https://github.com/sPROFFEs/PrAImate/tree/server). See the [installation guide](https://github.com/sPROFFEs/PrAImate/blob/main/docs/INSTALLATION.md) and [releases](https://github.com/sPROFFEs/PrAImate/releases).
 
 ---
 
@@ -63,13 +64,13 @@ Cross-platform **ClamAV desktop frontend for Linux, macOS and Windows**, built i
 
 [![Stars](https://img.shields.io/github/stars/sPROFFEs/DorkQuery?style=flat-square)](https://github.com/sPROFFEs/DorkQuery/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/sPROFFEs/DorkQuery?style=flat-square)](https://github.com/sPROFFEs/DorkQuery/commits) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Drag-and-drop search-query builder for **OSINT and web reconnaissance**. Features reusable operators, GHDB/DorkHub datasets and Google, Bing or DuckDuckGo searching. [Try it online](https://sproffes.github.io/DorkQuery/).
+Visual **OSINT query studio** with drag-and-drop operators, reusable search blocks, audit presets, dork-string import, undo/redo and GHDB/DorkHub exploration. Supports multiple search engines including Google, Bing, DuckDuckGo, Shodan, GitHub and URLScan. [Try it online](https://sproffes.github.io/DorkQuery/).
 
 ## [Aoede](https://github.com/sPROFFEs/Aoede)
 
 [![Stars](https://img.shields.io/github/stars/sPROFFEs/Aoede?style=flat-square)](https://github.com/sPROFFEs/Aoede/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/sPROFFEs/Aoede?style=flat-square)](https://github.com/sPROFFEs/Aoede/commits) ![Python](https://img.shields.io/badge/Python%20%2F%20FastAPI-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Self-hosted **multi-user music platform** built around Navidrome, with personal libraries, shared music storage, discovery, playlists, collaboration, optional federation and web/Android listening.
+Self-hosted **multi-user music platform** built around Navidrome, with personal libraries, shared storage, discovery, playlists, collaborative listening, optional federation (beta), and web, native Android and desktop clients.
 
 ## [GreyTab](https://github.com/sPROFFEs/GreyTab)
 
@@ -81,7 +82,7 @@ Pentesting-oriented **Chromium browser environment** combining a side-panel exte
 
 [![Stars](https://img.shields.io/github/stars/sPROFFEs/vitreo-launcher?style=flat-square)](https://github.com/sPROFFEs/vitreo-launcher/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/sPROFFEs/vitreo-launcher?style=flat-square)](https://github.com/sPROFFEs/vitreo-launcher/commits) ![Kotlin](https://img.shields.io/badge/Kotlin%20%2F%20Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-**Android 12+ launcher** with glass-inspired themes, an App Library, widgets, Control Center and optional notification island. No account, ads, analytics, root or accessibility service required.
+**Android 12+ launcher** with iOS 26 glass, iOS 16 Classic and Cyberpunk HUD themes; App Library, widgets, Control Center, optional notification island and configurable lock screen. No account, ads, analytics, root or accessibility service required.
 
 ## [StreamVault](https://github.com/sPROFFEs/StreamVault)
 
@@ -111,10 +112,8 @@ Unofficial local **OpenAI-compatible proxy for Microsoft 365 Copilot Web**, with
 | Project | Description |
 | :--- | :--- |
 | **[cve-parser](https://github.com/sPROFFEs/cve-parser)** | Go-based CVE research, CPE matching and JSON/HTML reports for manual verification. |
-| **[DFIR-Forensic-Script](https://github.com/sPROFFEs/DFIR-Forensic-Script)** | Windows live-response scripts for collecting network and system evidence. |
 | **[LinuxMemMapper](https://github.com/sPROFFEs/LinuxMemMapper)** | Memory-mapping utility for Volatility 2/3 workflows. |
 | **[mitmrouter](https://github.com/sPROFFEs/mitmrouter)** | Linux router setup for IoT traffic-analysis and interception labs. |
-| **[WebRecon-multitools](https://github.com/sPROFFEs/WebRecon-multitools)** | Shell scripts and utilities for web reconnaissance. |
 
 </details>
 
@@ -145,7 +144,9 @@ Unofficial local **OpenAI-compatible proxy for Microsoft 365 Copilot Web**, with
 
 **[CoreSecFrame](https://github.com/CoreSecFrame/CoreSecFrameWebApp)** — earlier modular cybersecurity framework with web interface and security tooling; no longer a primary development focus.
 
-**[LinuxCatScale](https://github.com/sPROFFEs/LinuxCatScale)** — fork of an incident-response collection and reporting toolkit.
+**[Backyard Monsters — Web Player](https://github.com/sPROFFEs/backyard-monsters-refitted-webplayer)** — fork of Backyard Monsters Refitted adding a Dockerized, Ruffle-powered browser launcher and configurable server connections.
+
+**[Nexcloud-cloudflared](https://github.com/sPROFFEs/Nexcloud-cloudflared)** — fork of the Nextcloud Android client; listed separately from original projects.
 
 </details>
 
@@ -186,8 +187,6 @@ Unofficial local **OpenAI-compatible proxy for Microsoft 365 Copilot Web**, with
 ---
 
 # GitHub Activity
-
-<br>
 
 <div align="center">
 <picture>
